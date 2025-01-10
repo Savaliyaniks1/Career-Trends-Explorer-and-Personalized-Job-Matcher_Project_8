@@ -51,6 +51,4 @@ Based on the model forecasts, key insights and recommendations are provided to h
 - **For Companies**: Invest in remote work infrastructure and training programs.
 - **For Job Seekers**: Focus on roles in high-demand categories like technology and healthcare.
 - **For Policymakers**: Support upskilling initiatives to prepare the workforce for future demands.
-## Output 
-![Output](https://github.com/minalmmm/Career-Trends-Explorer-and-Personalized-Job-Matcher/blob/main/images/img1.png)
-![Output](https://github.com/minalmmm/Career-Trends-Explorer-and-Personalized-Job-Matcher/blob/main/images/img2.png)
+
